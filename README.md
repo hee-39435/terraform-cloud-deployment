@@ -1,32 +1,35 @@
-# 🚀 Secure Cloud Deployment using Terraform
+# Secure Cloud Deployment using Terraform
 
-## 📌 Project Overview
+## Overview
 
-This repository contains the initial setup for a DevOps and Cloud Computing project using Terraform.
+This repository contains the initial setup for a DevOps and Cloud Computing project focused on provisioning cloud infrastructure using Terraform.
 
-## 🎯 Objectives
+The project follows the Infrastructure as Code (IaC) approach to automate the deployment and management of cloud resources in a consistent and scalable manner.
 
-* Learn Infrastructure as Code (IaC)
-* Understand cloud deployment basics
-* Build secure infrastructure
+## Objectives
 
-## 🛠️ Tech Stack
+* Understand the principles of Infrastructure as Code (IaC)
+* Gain familiarity with cloud resource provisioning
+* Explore basic security considerations in cloud environments
+
+## Technologies
 
 * Terraform
-* AWS
+* Amazon Web Services (AWS)
 * Linux
+* Git and GitHub
 
-## 📂 Structure
+## Repository Structure
 
-* main.tf
-* provider.tf
-* variables.tf
-* outputs.tf
+* main.tf: Defines the core infrastructure resources
+* provider.tf: Configures the cloud provider
+* variables.tf: Declares input variables
+* outputs.tf: Defines output values
 
-## 🚀 Status
+## Status
 
-Project initialized with base structure.
+The repository currently contains the initial project structure. Implementation of infrastructure resources will be added in subsequent phases.
 
-## 👨‍💻 Author
+## Author
 
 Heena Kausar
