@@ -28,7 +28,10 @@ The project follows the Infrastructure as Code (IaC) approach to automate the de
 
 ## Status
 
-The repository currently contains the initial project structure. Implementation of infrastructure resources will be added in subsequent phases.
+## Status
+
+The project has been successfully executed using Terraform on a local environment. Terraform configuration files were applied to automate the creation of a local resource (`project.txt`) as part of the Infrastructure as Code (IaC) workflow.
+
 
 ## Author
 
