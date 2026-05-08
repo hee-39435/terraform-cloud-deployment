@@ -1,9 +1,3 @@
-resource "local_file" "project_info" {
-  filename = "project.txt"
-
-  content = <<EOT
 Project: Secure Cloud Deployment using Terraform
 Author: Heena Kausar
 Type: DevOps and Cloud Computing
-EOT
-}
