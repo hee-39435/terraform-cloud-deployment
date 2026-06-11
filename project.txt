@@ -1,3 +1,4 @@
 Project: Secure Cloud Deployment using Terraform
+Environment: Development
 Author: Heena Kausar
 Type: DevOps and Cloud Computing
